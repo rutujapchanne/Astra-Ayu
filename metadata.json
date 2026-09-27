@@ -1,0 +1,6 @@
+{
+  "name": "Astra Ayu - Voice-Based AI Medical History Search",
+  "description": "AI-powered emergency medical-history access platform designed to help doctors quickly retrieve and understand a patient's verified past medical information when every second counts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
